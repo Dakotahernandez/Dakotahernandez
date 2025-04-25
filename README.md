@@ -3,7 +3,7 @@ I am currently  a computer science student at Baylor University
 
 
 ## 🌐 Socials:
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dakota-hernandezbu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dakota-hernandezbu?trk=profile-badge">Dakota H.</a></div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dakota-hernandezbu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dakota-hernandezbu?trk=profile-badge">Dakota H.</a></div>)
               
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
