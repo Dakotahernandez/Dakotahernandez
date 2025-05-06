@@ -4,6 +4,11 @@ I am currently  a computer science student at Baylor University
 ##testing :
 <img src="https://github-readme-stats.vercel.app/api?username=Dakotahernandez&show_icons=true" />
 
+<img src="https://img.shields.io/github/contributors/Dakotahernandez/Java-Nutrition-Application" alt="Contributors" />
+
+
+<img src="https://img.shields.io/github/commit-activity/m/Dakotahernandez/Java-Nutrition-Application" alt="Monthly Commits" />
+
 
 ## 🌐 Socials:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dakota-hernandezbu)
