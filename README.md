@@ -2,6 +2,9 @@
 I am currently  a computer science student at Baylor University
 
 
+<img src="https://img.shields.io/github/commit-activity/m/Dakotahernandez/Java-Nutrition-Application" alt="Monthly commit activity">
+
+
 ## 🌐 Socials:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dakota-hernandezbu)
 
