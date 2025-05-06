@@ -1,8 +1,8 @@
 # 💫 About Me:
 I am currently  a computer science student at Baylor University
 
-
-<img src="https://img.shields.io/github/commit-activity/m/Dakotahernandez/Java-Nutrition-Application" alt="Monthly commit activity">
+##testing :
+<img src="https://github-readme-stats.vercel.app/api?username=Dakotahernandez&show_icons=true" />
 
 
 ## 🌐 Socials:
