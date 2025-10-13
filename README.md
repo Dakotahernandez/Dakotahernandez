@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 Computer Science student at Baylor University | Software Engineering Intern at Brazos Innovation Partners<br>
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dakota-hernandezbu)
 
 # 💻 Tech Stack:
